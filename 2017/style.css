@@ -117,8 +117,11 @@ body {
 	transform: rotate(10deg)
 }
 h1 {
-	font-weight: 700
+	font-weight: 700;
+	position: absolute;
+	bottom: -30px;
 }
 img {
-	width: 500px
+	width: 550px;
+	position: relative;
 }
