@@ -73,7 +73,7 @@ body {
 	animation: fadein 2s;
 	scroll-behavior: smooth;
 	-webkit-transform: translate3d(0, 0, 0);
-	transform: translate3d(0, 0, 0)
+	transform: translate3d(0, 0, 0);
 }
 @-webkit-keyframes fadein {
 	0% {
